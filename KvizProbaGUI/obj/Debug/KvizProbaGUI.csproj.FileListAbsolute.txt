@@ -1,0 +1,15 @@
+C:\prog\KvizProbaGUI\KvizProbaGUI\bin\Debug\KvizProbaGUI.exe.config
+C:\prog\KvizProbaGUI\KvizProbaGUI\bin\Debug\KvizProbaGUI.exe
+C:\prog\KvizProbaGUI\KvizProbaGUI\bin\Debug\KvizProbaGUI.pdb
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.csproj.AssemblyReference.cache
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\MainWindow.g.cs
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\App.g.cs
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI_MarkupCompile.cache
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI_MarkupCompile.lref
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\MainWindow.baml
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.g.resources
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.Properties.Resources.resources
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.csproj.GenerateResource.cache
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.csproj.CoreCompileInputs.cache
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.exe
+C:\prog\KvizProbaGUI\KvizProbaGUI\obj\Debug\KvizProbaGUI.pdb
